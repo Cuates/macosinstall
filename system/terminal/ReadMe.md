@@ -77,9 +77,9 @@
   * Save and quit file
 * Quit from iterm2 application
   * Full quit from iterm2 as the red X button will not fully exit the application on a Mac OS machine
+* Reopen iterm2 application
 * If not want to quit iterm2/terminal then
   * `source ~/.zshrc`
-* Reopen iterm2 application
 * Mac OS
   * Download Font TTF Files
     * `wget https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf`
