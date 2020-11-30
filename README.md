@@ -4,11 +4,8 @@
 ## Table of Contents
 * [Version](#version)
 * [System](#system)
-* [Additional Package](#additional-package)
 
 ### Version
 * 0.0.1
 
 ### [System](https://github.com/Cuates/macosinstall/tree/main/system)
-
-### [Additional Package]()
