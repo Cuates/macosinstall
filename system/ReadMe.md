@@ -5,4 +5,4 @@
 * [Terminal](#terminal)
 
 ### Terminal
-* [Mac OS 11](https://github.com/Cuates/centosinstall/tree/master/system/terminal)
+* [Mac OS 11](https://github.com/Cuates/macosinstall/tree/main/system/terminal)
